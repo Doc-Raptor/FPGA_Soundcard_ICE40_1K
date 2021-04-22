@@ -701,4 +701,6 @@ Wire Wire Line
 Connection ~ 6300 4100
 Wire Wire Line
 	6300 4100 6300 4200
+Text GLabel 8500 4450 0    50   Input ~ 0
+IRQ10
 $EndSCHEMATC
